@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services pour l&#39;édition numérique accessible et adaptée on </title>
+    <link>http://localhost:1313/fr/</link>
+    <description>Recent content in Services pour l&#39;édition numérique accessible et adaptée on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/fr/blog/</link>
+      <pubDate>Tue, 06 Oct 2020 08:49:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formations</title>
+      <link>http://localhost:1313/fr/docs/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:23 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/fr/contact/</link>
+      <pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate>
+      
+      <guid>http://localhost:1313/fr/contact/</guid>
+      <description>&lt;script type=&#34;text/javascript&#34; nonce=&#34;dXNlcj0iaGVsbG8iLGRvbWFpbj0iaGVua3ZlcmxpbmRlLmNvbSIsZG9jdW1lbnQud3JpdGUodXNlcisiQCIrZG9tYWluKTs=&#34;&gt;user=&#34;gautier&#34;,domain=&#34;editadapt.net&#34;,document.write(user+&#34;@&#34;+domain);&lt;/script&gt;&lt;noscript&gt;gautier at editadapt.net&lt;/noscript&gt;
+&lt;p&gt;éditadapt / Gautier Chomel&lt;/p&gt;
+&lt;p&gt;10 rue de la salle l&amp;rsquo;eveque&lt;/p&gt;
+&lt;p&gt;34 000 Montpellier&lt;/p&gt;
+&lt;p&gt;gautier @ editadapt.fr&lt;/p&gt;
+&lt;p&gt;06 77 32 96 98&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://calendly.com/gautier-chomel-edrlab/30min&#34;&gt;Prendre un rendez-vous&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

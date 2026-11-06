@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formations on </title>
+    <link>http://localhost:1313/fr/docs/</link>
+    <description>Recent content in Formations on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 06 Oct 2020 08:48:23 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/fr/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Démarche qualité</title>
+      <link>http://localhost:1313/fr/docs/qualite/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/qualite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partenariats</title>
+      <link>http://localhost:1313/fr/docs/partenaires/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/partenaires/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Édition adaptée</title>
+      <link>http://localhost:1313/fr/docs/edada/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/edada/</guid>
+      <description>&lt;p&gt;La réalité de l’édition adaptée est fortement modifiée par la loi exception handicap qui donne aux centre d’adaptation accès aux fichiers numériques des éditeurs. C’est une occasion de proposer un meilleur service à un plus grand nombre d’usagers et d’avancer dans la voie d’une égalité d&amp;rsquo;accès à la lecture. Pour en bénéficier pleinement, il est nécessaire de repenser notre approche technique et d’assurer une montée en compétence des professionnels. En plus de leurs compétences spécifiques, les transcripteurs adaptateurs doivent aujourd’hui comprendre et s’approprier les outils de l’édition et du web pour répondre aux besoins précis de l’usager.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nativement accessible</title>
+      <link>http://localhost:1313/fr/docs/ednac/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/ednac/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;édition numérique ouvre des possibles en matière d&amp;rsquo;accès à l&amp;rsquo;information et à la connaissance.&lt;/p&gt;
+&lt;p&gt;Au delà des obligations légales en cours de formalisation, nous proposons des formations destinées à vous permettre de toucher le plus grand nombre de lecteurs et à tirer le meilleur parti du numérique pour vos flux de production.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Formations</title>
+      <link>http://localhost:1313/fr/docs/introduction/</link>
+      <pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/introduction/</guid>
+      <description>&lt;p&gt;Éditadapt accompagne techniquement et renforce les compétences des acteurs de l&amp;rsquo;édition impliqués dans une démarche d&amp;rsquo;accessibilité de leurs productions.&lt;/p&gt;
+&lt;p&gt;Notre approche s’inscrit dans la riche histoire des technique de l’édition et la convergence des univers de la lecture numérique, de l’édition traditionnelle et des besoins spécifiques pour les publics jusque là empêchés de lire.&lt;/p&gt;
+&lt;p&gt;Nous adaptons nos formations à vos besoins. Contactez-nous : formation @ editadapt.net.&lt;/p&gt;
+&lt;p&gt;En 2021 100 % des stagiaires répondants déclarent avoir atteint les objectifs et que la formation leur a permis d&amp;rsquo;augmenter leur niveau de connaissance et d&amp;rsquo;habileté.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

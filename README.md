@@ -1,46 +1,143 @@
-# Hugo template for Netlify CMS with Netlify Identity
+<p align="center">
+  <a href="https://getdoks.org/">
+    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
+  </a>
+</p>
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+<h1 align="center">
+  Doks
+</h1>
 
-## Getting started
+<h3 align="center">
+  Modern Documentation Theme
+</h3>
 
-Use our deploy button to get your own copy of the repository. 
+<p align="center">
+  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+</p>
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+<p align="center">
+  <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
+  </a>
+  <a href="https://github.com/h-enk/doks/releases">
+    <img src="https://img.shields.io/github/v/release/h-enk/doks?include_prereleases&style=flat-square"alt="GitHub release (latest SemVer including pre-releases)">
+  </a>
+  <a href="https://www.npmjs.com/package/@hyas/doks">
+    <img src="https://img.shields.io/npm/v/@hyas/doks?style=flat-square" alt="npm (scoped)">
+  </a>
+  <a href="https://github.com/h-enk/doks/actions?query=workflow%3A%22Hyas+CI%22">
+    <img src="https://img.shields.io/github/workflow/status/h-enk/doks/Hyas%20CI/master?style=flat-square" alt="GitHub Workflow Status (branch)">
+  </a>
+  <a href="https://app.netlify.com/sites/doks/deploys">
+    <img src="https://img.shields.io/netlify/8a1009d5-88ac-413e-96ef-3f928674a083?style=flat-square" alt="Netlify">
+  </a>
+</p>
 
-This will setup everything needed for running the CMS:
+![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
 
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
+## Demo
 
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
+- [doks.netlify.app](https://doks.netlify.app/)
 
-Now you're all set, and you can start editing content!
+## Why Doks?
 
-## Local Development
+Nine main reasons why you should use Doks:
 
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
+1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
 
-Then start the development server with `yarn start` or `npm start`.
+2. __Fast by default__. Get 100 scores on [Google Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637) by default. Doks removes unused css, prefetches links, and lazy loads images.
 
-## Layouts
+3. __SEO-ready__. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
 
-The template is based on small, content-agnostic partials that can be mixed and matched. The pre-built pages showcase just a few of the possible combinations. Refer to the `site/layouts/partials` folder for all available partials.
+4. __Development tools__. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
 
-Use Hugo’s `dict` functionality to feed content into partials and avoid repeating yourself and creating discrepancies.
+5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap 5. Easily customize your Doks site with the source Sass files.
 
-## CSS
+6. __Netlify-ready__. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+7. __Full text search__. Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.
 
-## SVG
+8. __Page layouts__. Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.
 
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
+9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
 
+### Other features
+
+- __Multilingual and i18n__ support
+- __Versioning__ documentation support
+- __KaTeX__ math typesetting
+- __Mermaid__ diagrams and visualization
+- __highlight.js__ syntax highlighting
+
+## Requirements
+
+Doks uses npm to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts:
+
+- Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
+
+## Get started
+
+Start a new Doks project in three steps:
+
+### 1. Create a new site
+
+Doks is available as a child theme, and a starter theme:
+
+- Use the Doks child theme, if you do __not__ plan to customize a lot, and/or need future Doks updates.
+- Use the Doks starter theme, if you plan to customize a lot, and/or do __not__ need future Doks updates.
+
+Not quite sure? Use the Doks child theme.
+
+#### Doks child theme
+
+```bash
+git clone https://github.com/h-enk/doks-child-theme.git my-doks-site && cd my-doks-site
 ```
-<svg width="16px" height="16px" class="db">
-  <use xlink:href="#SVG-ID"></use>
-</svg>
+
+#### Doks starter theme
+
+```bash
+git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
 ```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm run start
+```
+
+## Other commands
+
+Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
+
+## Documentation
+
+- [Netlify](https://docs.netlify.com/)
+- [Hugo](https://gohugo.io/documentation/)
+- [Doks](https://getdoks.org/)
+
+## Communities
+
+- [Netlify Community](https://community.netlify.com/)
+- [Hugo Forums](https://discourse.gohugo.io/)
+- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
+
+[![OC sponsor 0](https://opencollective.com/doks/tiers/sponsor/0/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/0/website)
+[![OC sponsor 1](https://opencollective.com/doks/tiers/sponsor/1/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/1/website)
+
+## Backers
+
+Support this project by becoming a backer. Your avatar will show up here.
+
+[![Backers](https://opencollective.com/doks/tiers/backer.svg)](https://opencollective.com/doks)

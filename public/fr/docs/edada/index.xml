@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Édition adaptée on </title>
+    <link>http://localhost:1313/fr/docs/edada/</link>
+    <description>Recent content in Édition adaptée on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/fr/docs/edada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enjeux de l&#39;édition numérique</title>
+      <link>http://localhost:1313/fr/docs/edada/ad_1_enjeux/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/edada/ad_1_enjeux/</guid>
+      <description>&lt;p&gt;Mise à jour : novembre 2023&lt;/p&gt;
+&lt;p&gt;Durée : 21 heures sur 3 jours&lt;/p&gt;
+&lt;p&gt;Comprendre les évolutions en cours et leurs utilités pour l&#39;accès à la lecture, savoir se positionner et anticiper. Un programme d&amp;rsquo;une journée.&lt;/p&gt;
+&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs &lt;a href=&#34;#objectifs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprendre les enjeux de l&amp;rsquo;édition numérique accessible.&lt;/li&gt;
+&lt;li&gt;Comprendre les formats structurés, et leur interopérabilité.&lt;/li&gt;
+&lt;li&gt;Savoir organiser la production pour répondre au besoin de mutualisation.&lt;/li&gt;
+&lt;li&gt;Savoir produire un document de bureautique accessible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programme&#34;&gt;Programme &lt;a href=&#34;#programme&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Brève histoire de l&amp;rsquo;édition numérique.&lt;/li&gt;
+&lt;li&gt;Définition et histoire des formats pivots XML, DAISY, HTML, CSS etEPUB.&lt;/li&gt;
+&lt;li&gt;Gestion des métadonnées.&lt;/li&gt;
+&lt;li&gt;Bonnes pratiques et recommandations sur les flux de travail&lt;/li&gt;
+&lt;li&gt;Balisage, contenu linéaire, accessibilité, assemblage, exportations.&lt;/li&gt;
+&lt;li&gt;Cas pratique avec trois logiciels de traitement de texte : Word,Google doc, LibreOffice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;public&#34;&gt;Public &lt;a href=&#34;#public&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Équipes de direction.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Créer et transformer des fichiers structurés</title>
+      <link>http://localhost:1313/fr/docs/edada/ad_3_structure/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/edada/ad_3_structure/</guid>
+      <description>&lt;p&gt;XML, DAISY et EPUB, un programme de 3 jours permettant de savoir
+utiliser ces trois formats pour des contenus simples (textes et images).&lt;/p&gt;
+&lt;p&gt;Mise à jour : novembre 2023&lt;/p&gt;
+&lt;p&gt;Durée : 21 heures sur 3 jours&lt;/p&gt;
+&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs &lt;a href=&#34;#objectifs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Comprendre les enjeux de l&amp;rsquo;édition numérique accessible.&lt;/li&gt;
+&lt;li&gt;Comprendre les formats structurés, et leur interopérabilité.&lt;/li&gt;
+&lt;li&gt;Savoir traiter un fichier XML pour une adaptation en gros caractères,en braille ou pour une adaptation numérique accessible (epub et pdf).&lt;/li&gt;
+&lt;li&gt;Savoir créer un fichier DAISY, l&amp;rsquo;améliorer et le transformer.&lt;/li&gt;
+&lt;li&gt;Savoir transformer un fichier epub pour une adaptation en groscaractères ou en braille.&lt;/li&gt;
+&lt;li&gt;Savoir créer et modifier un fichier epub3 accessible et le vérifier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programme&#34;&gt;Programme &lt;a href=&#34;#programme&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Définition et histoire des formats pivots XML, DAISY, HTML, CSS etEPUB.&lt;/li&gt;
+&lt;li&gt;Gestion des métadonnées.&lt;/li&gt;
+&lt;li&gt;Création d&amp;rsquo;un fichier XML dtBook (DAISY).&lt;/li&gt;
+&lt;li&gt;Transformation d&amp;rsquo;un fichier XML dtBook (DAISY) aux formats epub etdbt.&lt;/li&gt;
+&lt;li&gt;Création d&amp;rsquo;un fichier epub3 accessible.&lt;/li&gt;
+&lt;li&gt;Utilisation de Calibre pour transformer un fichier epub.&lt;/li&gt;
+&lt;li&gt;Modifications d&amp;rsquo;un fichier epub.&lt;/li&gt;
+&lt;li&gt;Transformation et importation d&amp;rsquo;un fichier XML éditeur.&lt;/li&gt;
+&lt;li&gt;Automatisations, modèles de fichiers et bonnes pratiques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;public&#34;&gt;Public &lt;a href=&#34;#public&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Transcripteurs adaptateurs.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Adapter des manuels scolaires au format EPUB accessible</title>
+      <link>http://localhost:1313/fr/docs/edada/ad_4_epub-scolaire/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/edada/ad_4_epub-scolaire/</guid>
+      <description>&lt;p&gt;Mise à jour : novembre 2023&lt;/p&gt;
+&lt;p&gt;Durée : 21 heures sur 3 jours&lt;/p&gt;
+&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs &lt;a href=&#34;#objectifs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Savoir créer un fichier epub3 à partir d&amp;rsquo;un livre scolaire fourni en  pdf.&lt;/li&gt;
+&lt;li&gt;Savoir gérer les contenus complexes dans un fichier epub3.&lt;/li&gt;
+&lt;li&gt;Savoir vérifier la conformité d&amp;rsquo;un fichier epub3.&lt;/li&gt;
+&lt;li&gt;Savoir améliorer la qualité et l&amp;rsquo;accessibilité d&amp;rsquo;un fichier epub.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programme&#34;&gt;Programme &lt;a href=&#34;#programme&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Les bases HTML et CSS.&lt;/li&gt;
+&lt;li&gt;Les balises spécifiques au format epub3.&lt;/li&gt;
+&lt;li&gt;Les métadonnées.&lt;/li&gt;
+&lt;li&gt;Insérer des schémas.&lt;/li&gt;
+&lt;li&gt;Insérer des tableaux.&lt;/li&gt;
+&lt;li&gt;Insérer des formules mathématiques.&lt;/li&gt;
+&lt;li&gt;Automatisations.&lt;/li&gt;
+&lt;li&gt;Modèles de fichiers.&lt;/li&gt;
+&lt;li&gt;Bonnes pratiques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;public&#34;&gt;Public &lt;a href=&#34;#public&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Transcripteur-Adaptateur, technicien supérieur, technicien spécialisé.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>InDesign, Acrobat et Photoshop pour le travail d&#39;adaptation</title>
+      <link>http://localhost:1313/fr/docs/edada/ad_2_adobe/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/edada/ad_2_adobe/</guid>
+      <description>&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs &lt;a href=&#34;#objectifs&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Utiliser les outils Adobe Creative Suite pour l&amp;rsquo;édition de textes et
+d&amp;rsquo;images.&lt;/li&gt;
+&lt;li&gt;Savoir modifier un fichier source éditeur pour une adaptation en gros
+caractères.&lt;/li&gt;
+&lt;li&gt;Savoir créer un fichier indesign et réaliser une mise en page.&lt;/li&gt;
+&lt;li&gt;Savoir exporter un fichier indesign aux formats epub et pdf
+accessibles.&lt;/li&gt;
+&lt;li&gt;Connaître les spécificités de fichier permettant une exportation
+structurée et réutilisable liée à l&#39;accessibilité pour les personnes
+empêchées de lire.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programme&#34;&gt;Programme &lt;a href=&#34;#programme&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Interface &amp;amp; fonctionnement général des logiciels.&lt;/li&gt;
+&lt;li&gt;Gestion et compréhension des fichiers indd, ai, psd et pdf.&lt;/li&gt;
+&lt;li&gt;Création d&amp;rsquo;un fichier pour une impression papier.&lt;/li&gt;
+&lt;li&gt;Création d&amp;rsquo;un fichier pour une impression en relief.&lt;/li&gt;
+&lt;li&gt;Création d&amp;rsquo;un fichier pour la production de documents et ouvrages
+numériques accessibles.&lt;/li&gt;
+&lt;li&gt;Modification d&amp;rsquo;un fichier éditeur au format indd, ai, psd et pdf.&lt;/li&gt;
+&lt;li&gt;Importations, exportations et interopérabilité.&lt;/li&gt;
+&lt;li&gt;Formats structurés et automatisations (XML, GREP, expressions
+régulières).&lt;/li&gt;
+&lt;li&gt;Modèles de fichiers.&lt;/li&gt;
+&lt;li&gt;Bonnes pratiques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;public&#34;&gt;Public &lt;a href=&#34;#public&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Transcripteur-Adaptateur, technicien supérieur, technicien spécialisé.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

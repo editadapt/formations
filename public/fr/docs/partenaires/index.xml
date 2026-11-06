@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partenariats on </title>
+    <link>http://localhost:1313/fr/docs/partenaires/</link>
+    <description>Recent content in Partenariats on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/fr/docs/partenaires/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CFCB Bretagne, Pays de la Loire</title>
+      <link>http://localhost:1313/fr/docs/partenaires/crfcb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/partenaires/crfcb/</guid>
+      <description>&lt;p&gt;Depuis 2020, nous dispensons des formations de 6 heures à distance :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sensibilisation à l’accessibilité des ressources numériques en bibliothèque&lt;/li&gt;
+&lt;li&gt;État des lieux de l’édition adaptée en France et dans le monde&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Le Centre de Formation aux Carrières des Bibliothèques Bretagne Pays de la Loire fait
+partie d&amp;rsquo;un réseau national de 12 CRFCB (Centres Régionaux de Formation aux Carrières
+des Bibliothèques) qui propose, à toutes les catégories de personnels des bibliothèques
+ou futurs professionnels, des stages de formation continue, des journées et voyages
+d’étude, des préparations aux concours des bibliothèques d&amp;rsquo;Etat et territoriales, des
+formations longues (formation professionnelle de base ou de spécialisation, parfois sous
+forme de DU).
+Le réseau s&amp;rsquo;est doté depuis 2017 d&amp;rsquo;une plateforme sur laquelle on retrouve toute l&amp;rsquo;offre de
+formation du réseau.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Edinovo / Asfored</title>
+      <link>http://localhost:1313/fr/docs/partenaires/edinovo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/partenaires/edinovo/</guid>
+      <description>&lt;p&gt;Interventions sur deux formations.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://asfored.org/edinovo/formation/18ED268/&#34;&gt;L’accessibilité numérique pour tous&lt;/a&gt;
+&lt;a href=&#34;https://asfored.org/edinovo/formation/18ED267/&#34;&gt;Intégrer l’accessibilité à son projet éditorial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Edinovo Formation est une filiale de l&amp;rsquo;Asfored, organisme de formation spécialisé dans le secteur de l&amp;rsquo;édition, la communication et la culture. Edinovo et le pôle dédié aux activités de formation professionnelle continue.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
